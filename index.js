@@ -1,7 +1,7 @@
 const templates = [`Mildly`, `Deeply`]
     .map(template => ({
         name: template,
-        themeFile: require(`./${template.toLowerCase()}`),
+        themeFile: require(`./templates/${template.toLowerCase()}`),
     }));
 
 const telegraf = require(`telegraf`);
