@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YouTwitFace/ebekbot/issues"
   },
-  "homepage": "https://github.com/YouTwitFace/ebekbot#readme"
+  "homepage": "https://github.com/YouTwitFace/ebekbot#readme",
+  "dependencies": {
+    "telegraf": "^3.28.0"
+  }
 }
