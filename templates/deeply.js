@@ -21,7 +21,7 @@ bubble_button, bubble_button_noWallpaper: #151515
 bubble_messageSelection, bubble_messageSelectionNoWallpaper, messageSelection: #${color}2D
 bubble_overlay: #A0A0A07D
 bubbleIn_outline: #000000B0
-bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, seekReady, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}48
+bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, seekReady, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}68
 bubbleOut_outline: #000000B1
 caption_textLinkPressHighlight: #${color}54
 chatKeyboardButton: #151618
