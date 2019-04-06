@@ -12,7 +12,7 @@ avatarGreen, nameGreen: #43A047
 avatarOrange, nameOrange: #FB8C00
 avatarPink, namePink: #F06292
 avatarViolet, nameViolet: #9A92CC
-avatarRed, avatarSavedMessages, badge, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositiveContent, headerButton, headerPickerBackground, headerPlaceholder, iconActive, iconNegative, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNegative, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, videoSliderActive, waveformActive: #${color}
+avatarRed, avatarSavedMessages, badge, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositiveContent, headerButton, headerPickerBackground, headerPlaceholder, iconActive, iconNegative, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNegative, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
 background_icon, icon: #8B9398
 badgeMuted: #3B3B3B
 badgeMutedText: #CCC
@@ -41,5 +41,6 @@ sliderInactive: #E42B5765
 statusBar: #0000003F
 togglerPositive: #00CD67
 togglerPositiveBackground: #00CD6768
-videoSliderInactive: #${color}5E`;
+videoSliderActive: #FFF
+videoSliderInactive: #FFF4`;
 };
