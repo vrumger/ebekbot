@@ -5,8 +5,14 @@ author: "tgxdark"
 @
 parentTheme: 2
 #
-attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, bubbleIn_background, bubbleOut_background, chatBackground, chatKeyboardButton, fileAttach, filling, fillingPositive, fillingPressed, headerBackground, headerBarCallActive, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, bubbleIn_background, bubbleOut_background, chatBackground, fileAttach, filling, fillingPositive, fillingPressed, headerBackground, headerBarCallActive, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
 avatarOrange: #F4975B
+avatarBlue, nameBlue: #35B7F3
+avatarCyan, nameCyan: #00ACC1
+avatarGreen, nameGreen: #43A047
+avatarOrange, nameOrange: #FB8C00
+avatarPink, namePink: #F06292
+avatarViolet, nameViolet: #9A92CC
 avatarRed, avatarSavedMessages, badge, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositiveContent, headerButton, headerPickerBackground, headerPlaceholder, iconActive, iconNegative, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNegative, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, videoSliderActive, waveformActive: #${color}
 background_icon, icon: #8B9398
 badgeMuted: #3B3B3B
@@ -22,6 +28,7 @@ caption_textLinkPressHighlight: #${color}54
 chatListMute, iconLight: #FFFFFFB5
 circleButtonChat, circleButtonOverlay, playerCoverPlaceholder: #212226
 controlContent: #FFFCFC
+chatKeyboardButton: #151618
 fileRed: #E53737
 headerBarCallIncoming: #78E27E
 headerBarCallMuted: #919191
