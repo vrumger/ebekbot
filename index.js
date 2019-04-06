@@ -34,6 +34,8 @@ bot.start(async ctx => {
         });
 });
 
+bot.command('help', ({ reply }) => reply('Step-by-step guide to Theme Painter *telegraph link*'))
+
 bot.command(`dark`, async ctx => {
     const hexCode = ctx.message.text
         .slice(`/dark`.length)
