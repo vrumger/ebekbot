@@ -6,7 +6,6 @@ author: "tgxdark"
 parentTheme: 2
 #
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, bubbleIn_background, bubbleOut_background, chatBackground, fileAttach, filling, fillingPositive, fillingPressed, headerBackground, headerBarCallActive, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
-avatarOrange: #F4975B
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
 avatarGreen, nameGreen: #43A047
