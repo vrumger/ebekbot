@@ -25,7 +25,7 @@ bot.start(async ctx => {
             ctx.replyWithDocument(
                 {
                     source: Buffer.from(theme, `binary`),
-                    filename: `${template.name} #${hexCode}.tgx-theme`,
+                    filename: `${template.name} #${hexCode} | 1.0.tgx-theme`,
                 }, {
                     caption: `Theme by @tgxdark`,
                     reply_to_message_id: ctx.message.message_id,
@@ -51,7 +51,7 @@ bot.command(`dark`, async ctx => {
     ctx.replyWithDocument(
         {
             source: Buffer.from(theme, `binary`),
-            filename: `${template.name} #${hexCode}.tgx-theme`,
+            filename: `${template.name} #${hexCode} | 1.0.tgx-theme`,
         }, {
             caption: `Theme by @tgxdark`,
             reply_to_message_id: ctx.message.message_id,
@@ -74,7 +74,7 @@ bot.command(`black`, async ctx => {
     ctx.replyWithDocument(
         {
             source: Buffer.from(theme, `binary`),
-            filename: `${template.name} #${hexCode}.tgx-theme`,
+            filename: `${template.name} #${hexCode} | 1.0.tgx-theme`,
         }, {
             caption: `Theme by @tgxdark`,
             reply_to_message_id: ctx.message.message_id,
