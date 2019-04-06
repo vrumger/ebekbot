@@ -13,7 +13,7 @@ bot.start(async ctx => {
         .trim();
 
     if (!hexCode) {
-        return ctx.reply(`Hello and welcome to Themes Painter bot! Please, use /help to learn how to use me.`);
+        return ctx.reply(`Hello and welcome to Theme Painter bot! Please, use /help to learn how to use me.`);
     } else if (hexCode.length !== `ffffff`.length) {
         return ctx.reply(`Incorrect color code. Please, try again`);
     }
