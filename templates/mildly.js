@@ -23,12 +23,12 @@ bubble_mediaReply, bubble_mediaReply_noWallpaper: #171717
 bubble_messageSelection, messageSelection: #${color}15
 bubble_messageSelectionNoWallpaper: #${color}23
 bubbleIn_outline: #000000B0
-bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, caption_textLinkPressHighlight, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, videoSliderInactive, waveformInactive: #${color}48
+bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, caption_textLinkPressHighlight, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, videoSliderInactive, waveformInactive: #${color}68
 bubbleOut_outline: #000000B1
 bubbleOut_ticks: #FF6363
 chatKeyboardButton, headerBackground, headerLightBackground: #1A1B1E
 chatListMute, iconLight: #FFFFFFB5
-chatSeparator, separator: #0D0E0F
+chatSeparator, separator: #000
 circleButtonChat, circleButtonOverlay, playerCoverPlaceholder: #212226
 controlContent: #FFFCFC
 controlInactive: #7D8E98
@@ -45,7 +45,7 @@ inputNegative: #F41616
 messageSwipeBackground: #191B1D
 nameYellow: #F9C337
 overlayFilling: #131415
-passcode: #232323
+passcode: #151618
 placeholder: #1D1E21
 seekEmpty: #131313
 shareSeparator: #0E0E0E8E
