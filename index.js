@@ -13,7 +13,7 @@ bot.start(async ctx => {
         .trim();
 
     if (!hexCode) {
-        return ctx.reply(`Todo`);
+        return ctx.reply(`Oh hello there`);
     } else if (hexCode.length !== `ffffff`.length) {
         return ctx.reply(`Invalid hex code`);
     }
