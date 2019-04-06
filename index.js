@@ -13,9 +13,9 @@ bot.start(async ctx => {
         .trim();
 
     if (!hexCode) {
-        return ctx.reply(`Oh hello there`);
+        return ctx.reply(`Hello and welcome to Themes Painter bot. Please, use /help to learn how to use me.`);
     } else if (hexCode.length !== `ffffff`.length) {
-        return ctx.reply(`Invalid hex code`);
+        return ctx.reply(`Incorrect color code. Please, try again`);
     }
 
     templates
@@ -34,13 +34,13 @@ bot.start(async ctx => {
         });
 });
 
-bot.command(`mildly`, async ctx => {
+bot.command(`dark`, async ctx => {
     const hexCode = ctx.message.text
-        .slice(`/mildly`.length)
+        .slice(`/dark`.length)
         .trim();
 
     if (!hexCode || hexCode.length !== `ffffff`.length) {
-        return ctx.reply(`Invalid hex code`);
+        return ctx.reply(`Incorrect color code. Please, try again`);
     }
 
     const template = templates[0];
@@ -57,13 +57,13 @@ bot.command(`mildly`, async ctx => {
     );
 });
 
-bot.command(`deeply`, async ctx => {
+bot.command(`black`, async ctx => {
     const hexCode = ctx.message.text
-        .slice(`/deeply`.length)
+        .slice(`/black`.length)
         .trim();
 
     if (!hexCode || hexCode.length !== `ffffff`.length) {
-        return ctx.reply(`Invalid hex code`);
+        return ctx.reply(`Incorrect color code. Please, try again`);
     }
 
     const template = templates[1];
