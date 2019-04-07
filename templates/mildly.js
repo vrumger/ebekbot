@@ -1,6 +1,6 @@
 module.exports = color => {
     return `!
-name: "Mildly #${color} | 1.0.1"
+name: "Mildly #${color} | 1.0.2"
 author: "tgxdark"
 @
 parentTheme: 2
