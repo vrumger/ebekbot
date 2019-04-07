@@ -34,7 +34,7 @@ bot.start(async ctx => {
         });
 });
 
-bot.command('help', ({ reply }) => reply('Step-by-step guide to Theme Painter: https://telegra.ph/Making-themes-using-Theme-Painter-04-06 '))
+bot.command(`help`, ({ reply }) => reply(`Step-by-step guide to Theme Painter: https://telegra.ph/Making-themes-using-Theme-Painter-04-06 `));
 
 bot.command(`dark`, async ctx => {
     const hexCode = ctx.message.text
