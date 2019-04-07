@@ -1,6 +1,6 @@
 module.exports = color => {
     return `!
-name: "Mildly #${color} | 1.0"
+name: "Mildly #${color} | 1.0.1"
 author: "tgxdark"
 @
 parentTheme: 2
@@ -14,8 +14,8 @@ avatarViolet, nameViolet: #9A92CC
 background: #0F1011
 badgeMuted: #3B3B3B
 badgeMutedText: #CCC
-avatarRed, avatarSavedMessages, badge, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fillingNegative, fillingPositiveContent, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, iconNegative, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
-badgeText, checkContent, circleButtonChatIcon, circleButtonOverlayIcon, inlineContentActive, promoContent, videoSliderActive: #FFF
+avatarRed, avatarSavedMessages, badge, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fillingNegative, fillingPositiveContent, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, iconNegative, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
+badgeText, checkContent, circleButtonChatIcon, circleButtonOverlayIcon, inlineContentActive, promoContent, playerButton, videoSliderActive: #FFF
 bubble_button, bubble_button_noWallpaper, bubble_date, bubble_date_noWallpaper, bubble_unread, bubble_unread_noWallpaper, bubbleIn_background, bubbleOut_background, chatKeyboard, filling, unread: #151618
 bubble_chatBackground, chatBackground: #0D0D0F
 bubble_chatSeparator: #0D0E0FDC
