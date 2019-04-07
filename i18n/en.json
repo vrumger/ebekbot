@@ -5,7 +5,7 @@
         "invalid": "Incorrect color code. Please, try again."
     },
     "theme": {
-        "name": "{{name}} #{{color}} [1.0.1].tgx-theme",
+        "name": "{{name}} #{{color}} [1.0.2].tgx-theme",
         "caption": "Theme by @tgxdark"
     }
 }
