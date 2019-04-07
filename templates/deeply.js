@@ -1,6 +1,6 @@
 module.exports = color => {
     return `!
-name: "Deeply #${color} | 1.0.1"
+name: "Deeply #${color} | 1.0.2"
 author: "tgxdark"
 @
 parentTheme: 2
@@ -24,7 +24,7 @@ bubbleIn_outline: #000000B0
 bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, introSection, seekReady, SliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}68
 bubbleOut_outline: #000000B1
 caption_textLinkPressHighlight: #${color}54
-chatKeyboardButton: #151618
+bubble_date, bubble_date_noWallpaper, bubble_overlay, bubble_overlay_noWallpaper, chatKeyboardButton: #151618
 chatListMute, iconLight: #FFFFFFB5
 circleButtonChat, circleButtonOverlay, playerCoverPlaceholder: #212226
 controlContent: #FFFCFC
