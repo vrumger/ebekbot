@@ -16,9 +16,9 @@ module.exports = bot => {
             .trim();
 
         if (!hexCode) {
-            return ctx.reply(`Hello and welcome to Theme Painter bot! Please, use /help to learn how to use me.`);
+            return ctx.reply(ctx.i18n(`start`));
         } else if (hexCode.length !== `ffffff`.length) {
-            return ctx.reply(`Incorrect color code. Please, try again`);
+            return ctx.reply(ctx.i18n(`hex.invalid`));
         }
 
         templates
@@ -28,9 +28,12 @@ module.exports = bot => {
                 ctx.replyWithDocument(
                     {
                         source: Buffer.from(theme, `binary`),
-                        filename: `${template.name} #${hexCode} [1.0].tgx-theme`,
+                        filename: ctx.i18n(`theme.name`, {
+                            name: template.name,
+                            color: hexCode,
+                        }),
                     }, {
-                        caption: `Theme by @tgxdark`,
+                        caption: ctx.i18n(`theme.caption`),
                         reply_to_message_id: ctx.message.message_id,
                     }
                 );

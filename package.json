@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YouTwitFace/ebekbot#readme",
   "dependencies": {
+    "new-i18n": "^1.1.1",
     "telegraf": "^3.28.0"
   }
 }
