@@ -1,8 +1,7 @@
 const handlers = [
     `start`,
     `help`,
-    `mildly`,
-    `deeply`,
+    `theme`,
 ];
 
 module.exports = bot =>

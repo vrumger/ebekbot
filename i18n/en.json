@@ -7,5 +7,8 @@
     "theme": {
         "name": "{{name}} #{{color}} [1.0.2].tgx-theme",
         "caption": "Theme by @tgxdark"
+    },
+    "template": {
+        "not_found": "Sorry, I couldn't find a template with that name."
     }
 }
