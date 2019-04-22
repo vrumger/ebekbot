@@ -31,7 +31,7 @@ chatListMute, iconLight: #FFFFFFB5
 chatSeparator, separator: #000
 circleButtonChat, circleButtonOverlay, playerCoverPlaceholder: #212226
 controlContent: #FFFCFC
-controlInactive: #7D8E98
+controlInactive: #696969
 drawer: #00000040
 fileAttach: #212121
 fileRed: #E54040
