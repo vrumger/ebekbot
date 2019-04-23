@@ -53,7 +53,7 @@ online: #1BC620
 placeholder: #E2E2E2
 seekEmpty: #E1E1E1
 separator, shareSeparator: #00000024
-textLight: #737373
+statusBar, statusBarLegacy: #FFFFFFAB
 togglerInactive: #E8E8E8
 togglerInactiveBackground: #C7C7C7
 togglerPositive: #00CD67
