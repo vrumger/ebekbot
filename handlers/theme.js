@@ -9,8 +9,6 @@ const templates = [
         name: `Mildly Black`,
         makeTheme: require(`../templates/deeply`),
     },
-
-
     {
         command: `light`,
         name: `Mildly Light`,

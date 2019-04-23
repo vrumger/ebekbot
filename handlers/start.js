@@ -7,8 +7,6 @@ const templates = [
         name: `Mildly Black`,
         makeTheme: require(`../templates/deeply`),
     },
-
-
    {
       name: `Mildly Light`,
         makeTheme: require(`../templates/light`),
