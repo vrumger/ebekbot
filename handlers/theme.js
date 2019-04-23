@@ -1,13 +1,20 @@
 const templates = [
     {
         command: `dark`,
-        name: `Mildly`,
+        name: `Mildly Dark`,
         makeTheme: require(`../templates/mildly`),
     },
     {
         command: `black`,
-        name: `Deeply`,
+        name: `Mildly Black`,
         makeTheme: require(`../templates/deeply`),
+    },
+
+
+    {
+        command: `light`,
+        name: `Mildly Light`,
+        makeTheme: require(`../templates/light`),
     },
 ];
 
