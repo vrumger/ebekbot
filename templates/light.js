@@ -1,6 +1,6 @@
 module.exports = color => {
     return `!
-name: "Mildly Light #${color} | 1.1"
+name: "Mildly Light #${color} | 1.1.1"
 time: 1556003055
 author: "tgxdark"
 @
