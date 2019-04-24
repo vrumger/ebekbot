@@ -49,7 +49,7 @@ passcode: #151618
 placeholder: #1D1E21
 seekEmpty: #131313
 shareSeparator: #0E0E0E8E
-statusBar, statusBarLegacy: #00000057
+statusBar, statusBarLegacy: #00000041
 togglerPositive: #00CD67
 togglerPositiveBackground: #00CD6768
 videoSliderInactive: #FFF4`;
