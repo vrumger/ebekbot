@@ -2,7 +2,7 @@
     "start": "Hello and welcome to Theme Painter bot! Please, use /help to learn how to use me.",
     "help": "Step-by-step guide to Theme Painter: https://telegra.ph/Making-themes-using-Theme-Painter-04-06",
     "hex": {
-        "invalid": "Incorrect color code. Please, try again."
+        "invalid": "Incorrect color code. Please, try again. Make sure that there's no "#" symbol in color code. Also, try using /help."
     },
     "theme": {
         "name": "{{name}} #{{color}} [1.1.2].tgx-theme",
