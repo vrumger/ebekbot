@@ -22,7 +22,7 @@ badgeMuted: #E5E1E1
 badgeMutedText: #636363
 badgeText, bubble_buttonText, bubble_button_noWallpaper, bubble_chatSeparator, bubble_date, bubble_date_noWallpaper, bubble_unread, bubble_unread_noWallpaper, bubbleIn_background, bubbleOut_background, chatBackground, chatKeyboard, checkContent, circleButtonChat, circleButtonOverlay, filling, headerBackground, headerButtonIcon, headerLightBackground, inlineContentActive, overlayFilling, passcode, playerCoverIcon, promoContent: #FFF
 bubble_button, chatKeyboardButton: #F2F2F2
-bubble_buttonText_noWallpaper, bubble_dateText, bubble_dateText_noWallpaper, headerIcon, headerLightText, headerTabActive, headerTabActiveText, headerText, messageSwipeContent, playerButton, unreadText: #222
+bubble_buttonText_noWallpaper, bubble_dateText, bubble_dateText_noWallpaper, headerLightText, headerTabActive, headerTabActiveText, headerText, messageSwipeContent, playerButton, unreadText: #222
 bubble_chatBackground: #0000
 bubble_mediaReply, bubble_mediaReply_noWallpaper: #ADADAD
 bubble_messageSelection, bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, caption_textLinkPressHighlight, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}68
@@ -32,8 +32,7 @@ bubbleIn_outline: #000000B0
 bubbleIn_progress, bubbleIn_time, bubbleOut_progress, bubbleOut_time: #868D95
 bubbleOut_outline: #000000B1
 chatListMute: #22222293
-circleButtonChatIcon, circleButtonOverlayIcon, icon: #747474
-headerLightIcon: #747474
+circleButtonChatIcon, circleButtonOverlayIcon, headerIcon, headerLightIcon, icon: #747474
 circleButtonNewChannel: #F5AD3D
 controlContent: #FFFCFC
 controlInactive: #989898
