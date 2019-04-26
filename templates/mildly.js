@@ -35,7 +35,6 @@ controlInactive: #696969
 drawer: #00000040
 fileAttach: #212121
 fileRed: #E54040
-fillingPositive: #18191C
 headerBarCallIncoming: #78E27E
 headerBarCallMuted: #919191
 headerRemoveBackground: #${color}AB
