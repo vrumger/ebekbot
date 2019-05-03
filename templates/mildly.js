@@ -5,7 +5,6 @@ author: "tgxdark"
 @
 parentTheme: 2
 #
-
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
 avatarGreen, circleButtonNewSecret, circleButtonPositive, fileGreen, iconPositive, nameGreen: #43A047
