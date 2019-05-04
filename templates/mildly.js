@@ -1,6 +1,7 @@
 module.exports = color => {
     return `!
 name: "Mildly Dark #${color} | 1.2"
+time: 1556957502
 author: "tgxdark"
 @
 parentTheme: 2
