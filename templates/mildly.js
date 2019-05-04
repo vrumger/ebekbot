@@ -7,7 +7,7 @@ parentTheme: 2
 #
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
-avatarGreen, circleButtonNewSecret, circleButtonPositive, fileGreen, iconPositive, nameGreen: #43A047
+avatarGreen, circleButtonNewSecret, circleButtonPositive, iconPositive, nameGreen: #43A047
 avatarOrange, circleButtonNewGroup, nameOrange: #FB8C00
 avatarPink, namePink: #F06292
 avatarRed, avatarSavedMessages, badge, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositive, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}

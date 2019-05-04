@@ -11,7 +11,7 @@ parentTheme: 2
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, chatBackground, filling, headerBackground, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
-avatarGreen, circleButtonNewSecret, circleButtonPositive, fileGreen, nameGreen: #43A047
+avatarGreen, circleButtonNewSecret, circleButtonPositive, nameGreen: #43A047
 avatarOrange, circleButtonNewGroup, nameOrange: #FB8C00
 avatarPink, namePink: #F06292
 circleButtonNegative, circleButtonNewChat, fileRed, iconNegative: #FF5251
