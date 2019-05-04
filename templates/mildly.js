@@ -25,7 +25,7 @@ bubble_mediaReply, bubble_mediaReply_noWallpaper: #171717
 bubble_messageSelection, messageSelection: #${color}15
 bubble_messageSelectionNoWallpaper: #${color}23
 bubbleIn_outline: #000000B0
-bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, caption_textLinkPressHighlight, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #FF525268
+bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, caption_textLinkPressHighlight, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}68
 bubbleOut_outline: #000000B1
 chatKeyboardButton, headerBackground, headerLightBackground: #1A1B1E
 chatListMute, iconLight: #FFFFFFB5
@@ -36,7 +36,7 @@ drawer: #00000040
 fileAttach: #212121
 headerBarCallIncoming: #78E27E
 headerBarCallMuted: #919191
-headerRemoveBackground: #FF5252AB
+headerRemoveBackground: #${color}AB
 headerTabActiveText, togglerPositiveContent: #FFF9F9
 headerTabInactiveText: #FFFFFF96
 inputNegative: #F41616
