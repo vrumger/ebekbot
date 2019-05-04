@@ -35,7 +35,7 @@ drawer: #00000040
 fileAttach: #212121
 headerBarCallIncoming: #78E27E
 headerBarCallMuted: #919191
-headerRemoveBackground: #${color}AB
+headerRemoveBackground: #FF5252
 headerTabActiveText, togglerPositiveContent: #FFF9F9
 headerTabInactiveText: #FFFFFF96
 inputNegative: #F41616
