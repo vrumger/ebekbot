@@ -8,7 +8,6 @@ bubbleOutline: 0
 bubbleOutlineSize: 1
 parentTheme: 2
 #
-
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, chatBackground, filling, headerBackground, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
@@ -41,6 +40,5 @@ inputNegative: #F00707
 seekEmpty: #131313
 statusBar, statusBarLegacy: #0000006B
 togglerPositive: #00CD67
-
 togglerPositiveBackground: #00CD6768`;
 };

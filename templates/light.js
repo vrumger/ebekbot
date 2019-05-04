@@ -8,7 +8,6 @@ lightStatusBar, parentTheme: 1
 wallpaperId: 21
 wallpaperUsageId: 2
 #
-
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, avatarSavedMessages, badge, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonRegular, circleButtonTheme, controlActive, file, fileAttach, fillingPositive, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, notification, notificationPlayer, passcodeIcon, playerButtonActive, playerCoverPlaceholder, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
@@ -57,6 +56,5 @@ statusBar, statusBarLegacy: #FFFFFFAB
 togglerPositive: #00CD67
 togglerPositiveBackground: #00CD6768
 togglerPositiveContent: #FFF9F9
-
 unread: #2222220E`;
 };

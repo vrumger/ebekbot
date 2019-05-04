@@ -5,7 +5,6 @@ author: "tgxdark"
 @
 parentTheme: 2
 #
-
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
 avatarGreen, circleButtonNewSecret, circleButtonPositive, fileGreen, iconPositive, nameGreen: #43A047
@@ -47,6 +46,5 @@ seekEmpty: #131313
 shareSeparator: #0E0E0E8E
 statusBar, statusBarLegacy: #00000041
 togglerPositive: #00CD67
-
 togglerPositiveBackground: #00CD676`;
 };
