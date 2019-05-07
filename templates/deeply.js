@@ -7,6 +7,7 @@ author: "tgxdark"
 bubbleOutline: 0
 bubbleOutlineSize: 1
 parentTheme: 2
+wallpaperOverrideDate: 0
 #
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_chatBackground, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_unread, bubble_unread_noWallpaper, chatBackground, filling, headerBackground, headerLightBackground, iv_preBlockBackground, messageSwipeBackground, overlayFilling, passcode, placeholder, unread: #000
 avatarBlue, nameBlue: #35B7F3

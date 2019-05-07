@@ -4,6 +4,7 @@ name: "Mildly Dark #${color} | 1.2"
 author: "tgxdark"
 @
 parentTheme: 2
+wallpaperOverrideDate: 0
 #
 avatarBlue, nameBlue: #35B7F3
 avatarCyan, nameCyan: #00ACC1
