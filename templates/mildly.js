@@ -11,7 +11,7 @@ avatarCyan, nameCyan: #00ACC1
 avatarGreen, circleButtonNewSecret, circleButtonPositive, iconPositive, nameGreen: #43A047
 avatarOrange, circleButtonNewGroup, nameOrange: #FB8C00
 avatarPink, namePink: #F06292
-avatarRed, badge, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositive, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
+avatarRed, badge, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonRegular, circleButtonTheme, controlActive, file, fillingPositive, headerBarCallActive, headerButton, headerRemoveBackgroundHighlight, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageSwipeBackground, messageVerticalLine, nameRed, notification, notificationPlayer, online, passcodeIcon, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerNegative, waveformActive: #${color}
 avatarViolet, nameViolet: #9A92CC
 background, chatBackground: #0F1011
 badgeMuted: #3B3B3B
@@ -40,7 +40,6 @@ headerRemoveBackground: #${color}AB
 headerTabActiveText, togglerPositiveContent: #FFF9F9
 headerTabInactiveText: #FFFFFF96
 inputNegative: #F41616
-messageSwipeBackground: #191B1D
 nameYellow: #F9C337
 placeholder: #1D1E21
 seekEmpty: #131313
