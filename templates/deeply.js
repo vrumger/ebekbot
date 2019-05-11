@@ -22,8 +22,7 @@ badgeText, checkContent, circleButtonChatIcon, circleButtonOverlayIcon, promoCon
 bubble_button: #151515
 bubble_button_noWallpaper, bubble_date, bubble_date_noWallpaper, bubble_overlay, bubble_overlay_noWallpaper, bubbleIn_background, bubbleOut_background, chatKeyboardButton, fileAttach, playerCoverPlaceholder: #151618
 bubble_messageSelection, bubble_messageSelectionNoWallpaper, messageSelection: #${color}2D
-bubbleIn_outline: #000000B0
-bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #$(color}68
+bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, fillingPressed, introSection, seekReady, sliderInactive, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, waveformInactive: #${color}68
 bubbleOut_outline: #000000B1
 caption_textLinkPressHighlight: #${color}54
 chatListMute, iconLight: #FFFFFFB5

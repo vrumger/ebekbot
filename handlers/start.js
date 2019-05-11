@@ -8,9 +8,8 @@ const templates = [
         makeTheme: require(`../templates/deeply`),
     },
    {
-      name: `Mildly Light`,
+        name: `Mildly Light`,
         makeTheme: require(`../templates/light`),
-
     },
 ];
 
