@@ -1,7 +1,6 @@
 module.exports = color => {
     return `!
 name: "Mildly Light #${color} | 1.2.1"
-time: 1556003055
 author: "tgxdark"
 @
 lightStatusBar, parentTheme: 1
