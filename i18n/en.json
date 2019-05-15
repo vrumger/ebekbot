@@ -5,7 +5,7 @@
         "invalid": "Incorrect color code. Please, try again. Make sure that there's no \"#\" symbol in color code. Also, try using /help."
     },
     "theme": {
-        "name": "{{name}} #{{color}} [1.2.1].tgx-theme",
+        "name": "{{name}} #{{color}} [1.2.2].tgx-theme",
         "caption": "Theme by @tgxdark"
     },
     "template": {
