@@ -1,4 +1,5 @@
 const middlewares = [
+    `errors`,
     `i18n`,
 ];
 
